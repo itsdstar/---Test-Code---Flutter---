@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Container(
         child: Column(
-          children: [Text("data"), Text("data")],
+          children: [Text(""), Text("Hellow World")],
         ),
       ),
     );
